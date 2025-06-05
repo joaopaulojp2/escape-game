@@ -1,3 +1,10 @@
-<page id="ntv_resolve" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página ntv_resolve" color="white" font-size="24" />
+<page id="ntv_resolve" bg_image="cemetery-arrowsign.png">
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="Página ntv_resolve"
+    color="white"
+    font-size="24"
+  />
 </page>

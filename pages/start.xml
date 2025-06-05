@@ -1,4 +1,4 @@
-<page id="start" bg_image="sala_desfocada.png" bg_music="osts-retro-forest.mp3">
+<page id="start" bg_image="sala_desfocada.png" bg_music="8bit_bossa.mp3">
   <agent
     id="teste"
     text="Escape Game"

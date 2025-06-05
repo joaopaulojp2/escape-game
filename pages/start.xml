@@ -11,9 +11,10 @@
   <agent
     id="next_page_text"
     text="Iniciar Jogo"
-    y="370"
+    y="360"
     color="white"
-    x="358"
+    x="340"
+    font-size="25"
     animation="pulse"
     on_click="goToPage('middle')"
   />

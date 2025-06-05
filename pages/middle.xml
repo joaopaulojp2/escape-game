@@ -6,6 +6,7 @@
     x="380"
     y="50"
     font-size="30"
+    animation="slide-up"
   />
 
   <agent

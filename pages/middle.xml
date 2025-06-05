@@ -26,5 +26,6 @@
     x="70"
     color="white"
     font-size="20"
+    on_click="goToPage('oet_puzzle')"
   />
 </page>

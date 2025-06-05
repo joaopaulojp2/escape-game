@@ -26,4 +26,12 @@
     color="white"
     font-size="20"
   />
+  <agent
+    id="next_page_text"
+    text="Fugir"
+    animation="glitch"
+    y="520"
+    x="650"
+    on_click="goToPage('start')"
+  />
 </page>

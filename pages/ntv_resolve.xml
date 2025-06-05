@@ -1,4 +1,4 @@
-<page id="ntv_resolve" bg_image="cemetery-arrowsign.png" bg_music:"003_vaporware_1_.mp3">
+<page id="ntv_resolve" bg_image="cemetery-arrowsign.png">
   <agent
     id="texto_novo"
     x="center"

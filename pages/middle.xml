@@ -23,7 +23,7 @@
     id="estante_puzzle"
     text="Estante"
     y="240"
-    x="50"
+    x="70"
     color="white"
     font-size="20"
   />

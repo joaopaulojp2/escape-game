@@ -10,7 +10,7 @@
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
+    text="Iniciar Jogo"
     y="370"
     color="white"
     x="center"

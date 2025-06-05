@@ -10,6 +10,15 @@
   />
 
   <agent
+    id="tv_resolve"
+    text="Tv"
+    y="178"
+    x="center"
+    color="white"
+    font-size="20"
+  />
+
+  <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"

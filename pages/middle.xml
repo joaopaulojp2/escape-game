@@ -12,18 +12,20 @@
   <agent
     id="tv_puzzle"
     text="Tv"
-    y="178"
+    y="165"
     x="center"
     color="white"
     font-size="20"
   />
 
   <agent
-    id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
-    on_click="goToPage('ending')"
+    id="estante_puzzle"
+    text="Estante Puzzle"
+    y="240"
+    x="50"
+    color="white"
+    font-size="20"
   />
+
+
 </page>

@@ -1,9 +1,9 @@
 <page id="ntv_resolve" bg_image="cemetery-arrowsign.png" bg_music:"003_vaporware_1_.mp3">
   <agent
-    id="titulo"
+    id="texto_novo"
     x="center"
     y="center"
-    text="Página ntv_resolve"
+    text="Isso ae"
     color="white"
     font-size="24"
   />

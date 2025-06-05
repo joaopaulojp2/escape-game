@@ -11,7 +11,8 @@
   <agent
     id="next_page_text"
     text="Proxima Pagina"
-    y="center"
+    y="400"
+    color="white"
     x="center"
     on_click="goToPage('middle')"
   />

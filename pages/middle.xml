@@ -1,11 +1,11 @@
-<page id="middle" bg_image="salinha.jpg" bg_music="osts-vilo.mp3">
+<page id="middle" bg_image="salinha.jpg" bg_music="8bit_bossa.mp3">
   <agent
     id="teste"
-    text="Hello World Middle"
+    text="Resolva os Puzzles!"
     color="white"
-    x="center"
-    y="center"
-    font-size="70"
+    x="380"
+    y="50"
+    font-size="30"
   />
 
   <agent

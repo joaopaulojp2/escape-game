@@ -13,7 +13,8 @@
     text="Iniciar Jogo"
     y="370"
     color="white"
-    x="center"
+    x="358"
+    animation="pulse"
     on_click="goToPage('middle')"
   />
 </page>

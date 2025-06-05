@@ -21,7 +21,7 @@
 
   <agent
     id="estante_puzzle"
-    text="Estante Puzzle"
+    text="Estante"
     y="240"
     x="50"
     color="white"

@@ -6,6 +6,6 @@
     text="Voltar a sala"
     color="white"
     font-size="24"
-    on_click=""
+    on_click="goToPage('middle')"
   />
 </page>

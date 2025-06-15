@@ -39,12 +39,12 @@
   <agent
     id="opcao_tres"
     text="print(ufmacomp)"
-    bg_color="seagreen"
+    bg_color="$corzinha1"
     radius="15"
     font-size="20"
     x="330"
     y="359"
-    on_click="goToPage('middle')"
+    on_click="set(corzinha1, 'darkred')"
   />
 
   <agent

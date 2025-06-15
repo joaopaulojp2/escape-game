@@ -28,4 +28,14 @@
     font-size="20"
     on_click="goToPage('oet_puzzle')"
   />
+
+  <agent
+    id="planta_puzzle"
+    text="Gaveta"
+    y="510"
+    x="650"
+    color="white"
+    font-size="20"
+    on_click="goToPage('plnt_puzzle')"
+  />
 </page>

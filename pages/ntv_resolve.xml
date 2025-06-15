@@ -40,7 +40,7 @@
   <fab-if when="$visible_iscas = true">
     <agent
       id="mensagem"
-      text="Você ganhou um isqueiro, cabe a você saber usalo..."
+      text="Você ganhou um isqueiro! Clique-o para coletálo, e na legenda para sair...."
       x="center"
       y="450"
       bg_color="black"

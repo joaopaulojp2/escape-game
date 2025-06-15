@@ -2,9 +2,10 @@
   <agent
     id="texto_novo"
     x="center"
-    y="center"
-    text="Isso ae"
+    y="520"
+    text="Voltar a sala"
     color="white"
     font-size="24"
+    on_click=""
   />
 </page>

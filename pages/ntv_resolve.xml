@@ -17,11 +17,11 @@
     y="135"
   />
   <agent
-    id="question"
-    text="O que falta ao código?"
-    color="black"
-    font-size="25"
-    x="285"
-    y="135"
+    id="codigo"
+    text="estudante = João  /  print(arroz)"
+    color="blue"
+    font-size="23"
+    x="250"
+    y="180"
   />
 </page>

@@ -38,7 +38,13 @@
   />
 
   <fab-if when="$visible_iscas = true">
-    <agent id="iscas" x="100" y="100" image="isqueiro.png" />
+    <agent
+      id="iscas"
+      x="50"
+      y="100"
+      image="isqueiro.png"
+      on_click="set(visible_iscas, false)"
+    />
   </fab-if>
 
   <agent

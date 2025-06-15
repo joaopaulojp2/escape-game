@@ -24,4 +24,11 @@
     x="250"
     y="180"
   />
+
+  <agent
+    id="opcao_um"
+    text="print(estudante)"
+    bg_color="seagreen"
+    radius="15"
+  />
 </page>

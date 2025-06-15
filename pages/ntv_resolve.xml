@@ -1,4 +1,8 @@
-<page id="ntv_resolve" bg_image="televisao4k.jpg">
+<page
+  id="ntv_resolve"
+  bg_image="televisao4k.jpg"
+  bg_music="003_vaporware_1_.mp3"
+>
   <agent
     id="texto_novo"
     x="center"

@@ -1,10 +1,11 @@
-<page id="plnt_puzzle" bg_image="planta.jpg">
+<page id="plnt_puzzle" bg_image="planta.jpg" bg_music="song_2.mp3">
   <agent
     id="titulo"
     x="center"
-    y="center"
-    text="Página plnt_puzzle"
+    y="505"
+    text="Voltar a sala"
     color="white"
     font-size="24"
+    on_click="goToPage('middle')"
   />
 </page>

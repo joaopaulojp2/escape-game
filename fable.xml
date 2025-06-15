@@ -1,8 +1,8 @@
 <fable>
   <config font-family="Schoolbell" />
 
+  <property name="corzinha1" default="seagreen" />
   <property name="corzinha" default="seagreen" />
-  <property name="visitante" default="Aventureiro" />
 
   <start />
   <middle />

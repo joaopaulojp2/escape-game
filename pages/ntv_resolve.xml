@@ -8,4 +8,10 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
+  <agent
+    id="jogo_do_milhao"
+    image=""
+
+
+  />
 </page>

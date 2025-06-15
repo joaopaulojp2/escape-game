@@ -42,6 +42,7 @@
     font-size="20"
     x="347"
     y="305"
+    on_click="goToPage('middle')"
   />
 
   <agent

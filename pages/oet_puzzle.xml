@@ -26,5 +26,5 @@
     font-size="25"
   />
 
-  <fab-if when="true" />
+  <fab-if when="$tem_isqueiro = true">
 </page>

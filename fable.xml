@@ -1,7 +1,7 @@
 <fable>
   <config font-family="Schoolbell" />
 
-  <property name="pontuacao" default="0" />
+  <property name="corzinha" default="seagreen" />
   <property name="visitante" default="Aventureiro" />
 
   <start />

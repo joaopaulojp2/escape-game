@@ -3,6 +3,7 @@
 
   <property name="corzinha1" default="seagreen" />
   <property name="corzinha" default="seagreen" />
+  <property name="visible_iscas" default="false" />
 
   <start />
   <middle />

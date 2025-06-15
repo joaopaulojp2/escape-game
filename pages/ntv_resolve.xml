@@ -44,14 +44,6 @@
       x="center"
       y="center"
     />
-    <agent
-      id="iscas"
-      x="center"
-      y="center"
-      width="500"
-      image="isqueiro.png"
-      on_click="set(visible_iscas, false)"
-    />
   </fab-if>
 
   <agent

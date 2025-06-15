@@ -51,7 +51,7 @@
   <agent
     id="opcao_dois"
     text="print(feijao)"
-    bg_color="seagreen"
+    bg_color="$corzinha"
     radius="15"
     font-size="20"
     x="347"

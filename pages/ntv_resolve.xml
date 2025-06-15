@@ -37,6 +37,10 @@
     on_click="set(visible_iscas, true)"
   />
 
+  <fab-if when="$visible_iscas = true">
+    <agent id="iscas" x="100" y="100" image="isqueiro.png" />
+  </fab-if>
+
   <agent
     id="opcao_tres"
     text="print(ufmacomp)"

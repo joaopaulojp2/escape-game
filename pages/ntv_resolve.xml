@@ -38,13 +38,22 @@
   />
 
   <fab-if when="$visible_iscas = true">
+     <agent
+      id="mensagem"
+      text="Você ganhou um isqueiro..."
+      x="center"
+      y="center"
+
+    />
     <agent
       id="iscas"
-      x="50"
-      y="100"
+      x="center"
+      y="center"
+      width="500"
       image="isqueiro.png"
       on_click="set(visible_iscas, false)"
     />
+   
   </fab-if>
 
   <agent

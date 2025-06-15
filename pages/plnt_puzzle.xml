@@ -1,3 +1,10 @@
-<page id="plnt_puzzle" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página plnt_puzzle" color="white" font-size="24" />
+<page id="plnt_puzzle" bg_image="planta.jpg">
+  <agent
+    id="titulo"
+    x="center"
+    y="center"
+    text="Página plnt_puzzle"
+    color="white"
+    font-size="24"
+  />
 </page>

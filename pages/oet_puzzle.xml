@@ -1,10 +1,11 @@
 <page id="oet_puzzle" bg_image="armario.jpg" bg_music="song_2.mp3">
   <agent
     id="titulo"
-    x="center"
-    y="center"
-    text="Página oet_puzzle"
+    x="70"
+    y="520"
+    text="Voltar a sala"
     color="white"
     font-size="24"
+    on_click="goToPage('middle')"
   />
 </page>

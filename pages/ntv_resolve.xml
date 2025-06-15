@@ -40,9 +40,13 @@
   <fab-if when="$visible_iscas = true">
     <agent
       id="mensagem"
-      text="Você ganhou um isqueiro..."
+      text="Você ganhou um isqueiro, cabe a você saber usalo..."
       x="center"
       y="center"
+      bg_color="black"
+      radius="7"
+      font-size="30"
+      on_click="set(visible_iscas, false)"
     />
   </fab-if>
 

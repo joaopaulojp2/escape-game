@@ -42,11 +42,19 @@
       id="mensagem"
       text="Você ganhou um isqueiro, cabe a você saber usalo..."
       x="center"
-      y="center"
+      y="450"
       bg_color="black"
       radius="7"
       font-size="30"
       on_click="set(visible_iscas, false)"
+    />
+    <agent
+      id="isquerito"
+      image="isqueiro.png"
+      width="400"
+      x="center"
+      y="50"
+      on_click="set(tem_isqueiro, true)"
     />
   </fab-if>
 

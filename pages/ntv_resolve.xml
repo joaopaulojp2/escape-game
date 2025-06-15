@@ -1,6 +1,4 @@
 <page id="ntv_resolve" bg_image="televisao4k.jpg" bg_music="song_2.mp3">
-
-
   <agent
     id="texto_novo"
     x="center"
@@ -10,7 +8,7 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
-  
+
   <agent
     id="question"
     text="O que falta ao código?"
@@ -52,11 +50,11 @@
   <agent
     id="opcao_dois"
     text="print(feijao)"
-    bg_color="seagreen"
+    bg_color="$corzinha"
     radius="15"
     font-size="20"
     x="347"
     y="305"
-    on_click="goToPage('middle')"
+    on_click="set(corzinha, 'darkred')"
   />
 </page>

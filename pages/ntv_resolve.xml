@@ -1,5 +1,5 @@
 <page id="ntv_resolve" bg_image="televisao4k.jpg" bg_music="song_2.mp3">
-  <property name="cor_dinamica" default="seagreen" />
+
 
   <agent
     id="texto_novo"
@@ -10,6 +10,7 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
+  
   <agent
     id="question"
     text="O que falta ao código?"
@@ -45,7 +46,7 @@
     font-size="20"
     x="330"
     y="359"
-    on_click=""
+    on_click="goToPage('middle')"
   />
 
   <agent
@@ -56,6 +57,6 @@
     font-size="20"
     x="347"
     y="305"
-    on_click=set($cor_dinamica, "red")
+    on_click="goToPage('middle')"
   />
 </page>

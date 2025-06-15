@@ -1,7 +1,6 @@
 <page id="ntv_resolve" bg_image="televisao4k.jpg" bg_music="song_2.mp3">
-  <property name="dois_ta" default="true" />
-  <property name="tres_ta" default="true" />
-  <property name="um_ta" default="true" />
+  <property name="corzinha" default="red" />
+
   <agent
     id="texto_novo"
     x="center"
@@ -57,5 +56,6 @@
     font-size="20"
     x="347"
     y="305"
+    on_click="set(corzinha, 'darkred')"
   />
 </page>

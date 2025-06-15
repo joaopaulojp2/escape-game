@@ -27,6 +27,10 @@
   />
 
   <fab-if when="$tem_isqueiro = true">
-    <agent id="isqueirobom" image="isqueiro.png" draggable="true" width="500" />
+    <agent 
+      id="isqueirobom" 
+      image="isqueiro.png" 
+      draggable="true" 
+      width="500" />
   </fab-if>
 </page>

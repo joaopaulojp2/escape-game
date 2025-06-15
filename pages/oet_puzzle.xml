@@ -1,4 +1,4 @@
-<page id="oet_puzzle" bg_color="black" bg_music="song_2.mp3">
+<page id="oet_puzzle" bg_image="armario.jpg" bg_music="song_2.mp3">
   <agent
     id="titulo"
     x="center"

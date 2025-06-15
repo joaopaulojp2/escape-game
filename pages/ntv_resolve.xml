@@ -30,5 +30,17 @@
     text="print(estudante)"
     bg_color="seagreen"
     radius="15"
+    font-size="20"
+    x="330"
+    y="250"
+  />
+  <agent
+    id="opcao_dois"
+    text="print(feijao)"
+    bg_color="seagreen"
+    radius="15"
+    font-size="20"
+    x="330"
+    y="305"
   />
 </page>

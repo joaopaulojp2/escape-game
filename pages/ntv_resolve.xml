@@ -37,7 +37,6 @@
     y="250"
   />
 
-
   <agent
     id="opcao_tres"
     text="print(ufmacomp)"
@@ -49,7 +48,7 @@
     on_click=""
   />
 
- <agent
+  <agent
     id="opcao_dois"
     text="print(feijao)"
     bg_color="seagreen"
@@ -57,9 +56,5 @@
     font-size="20"
     x="347"
     y="305"
-
-   />
-
-<fab-if when="opcao_dois" on_click>
-</fab-if>
+  />
 </page>

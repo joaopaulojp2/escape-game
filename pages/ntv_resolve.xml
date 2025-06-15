@@ -43,4 +43,14 @@
     x="347"
     y="305"
   />
+
+  <agent
+    id="opcao_tres"
+    text="print(ufmacomp)"
+    bg_color="seagreen"
+    radius="15"
+    font-size="20"
+    x="330"
+    y="359"
+  />
 </page>

@@ -56,6 +56,6 @@
     font-size="20"
     x="347"
     y="305"
-    on_click=set(cor_dinamica, "red")
+    on_click=set($cor_dinamica, "red")
   />
 </page>

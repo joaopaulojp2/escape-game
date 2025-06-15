@@ -10,8 +10,18 @@
   />
   <agent
     id="question"
-    text=""
-    
-
+    text="O que falta ao código?"
+    color="black"
+    font-size="25"
+    x="285"
+    y="135"
+  />
+  <agent
+    id="question"
+    text="O que falta ao código?"
+    color="black"
+    font-size="25"
+    x="285"
+    y="135"
   />
 </page>

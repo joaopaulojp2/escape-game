@@ -1,4 +1,6 @@
 <page id="ntv_resolve" bg_image="televisao4k.jpg" bg_music="song_2.mp3">
+  <property name="opcao_tres" default=true />
+  
   <agent
     id="texto_novo"
     x="center"

@@ -53,6 +53,6 @@
     font-size="20"
     x="330"
     y="359"
-    on_click="false"
+    on_click=""
   />
 </page>

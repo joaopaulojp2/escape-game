@@ -8,7 +8,9 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
-  
+
+  <agent id="fogo_vela" image="fogoo_photoroom.png" x="500" />
+
   <agent
     id="senhazinha"
     text="8451B5"
@@ -17,7 +19,6 @@
     color="rosybrown"
     font-size="25"
   />
-  
-  <fab-if when="true">
-</fab-if>
+
+  <fab-if when="true" />
 </page>

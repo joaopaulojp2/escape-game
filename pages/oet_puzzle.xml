@@ -9,7 +9,13 @@
     on_click="goToPage('middle')"
   />
 
-  <agent id="fogo_vela" image="fogoo_photoroom.png" x="500" />
+  <agent
+    id="fogo_vela"
+    image="fogoo_photoroom.png"
+    width="150"
+    y="15"
+    x="900"
+  />
 
   <agent
     id="senhazinha"

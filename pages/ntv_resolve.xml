@@ -9,9 +9,9 @@
     on_click="goToPage('middle')"
   />
   <agent
-    id="jogo_do_milhao"
-    image=""
-
+    id="question"
+    text=""
+    
 
   />
 </page>

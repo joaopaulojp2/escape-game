@@ -4,22 +4,4 @@
   bg_music="8bit_bossa.mp3"
 >
   <agent id="fundos" />
-  <agent
-    id="teste"
-    text="Parabéns! Conseguir Fugir é uma grande conquista!"
-    color="white"
-    x="center"
-    y="center"
-    font-size="30"
-  />
-
-  <agent
-    id="next_page_text"
-    text="Voltar ao inicio..."
-    y="360"
-    color="white"
-    x="340"
-    font-size="25"
-    on_click="reset()"
-  />
 </page>

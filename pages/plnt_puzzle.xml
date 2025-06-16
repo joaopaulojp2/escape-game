@@ -8,8 +8,7 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
-<fab-if when="$lista_final = true">
-  <agent
-    id="cadeado"
-    image=""
+  <fab-if when="$lista_final = true">
+    <agent id="cadeado" />
+  </fab-if>
 </page>

@@ -18,6 +18,7 @@
       x="400"
       y="400"
       radius="20"
+      on_click="set(cartao_acesso, true)"
     />
     <agent
       id="opcao_doois"
@@ -40,4 +41,11 @@
       on_click="reset()"
     />
   </fab-if>
+
+  <fab-if when="$cartao_acesso = false">
+    <agent
+      id="fundao"
+      text="ee "
+      bg_color="rgb(0,0,0,0.5)"
+      />
 </page>

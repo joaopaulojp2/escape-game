@@ -33,6 +33,8 @@
     <agent
       id="recado"
       text="Clique na senha para coleta-la, mas não a esqueça..."
+      x="500"
+      y="500"
     />
     <agent
       id="senhazinha"

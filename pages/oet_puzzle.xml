@@ -10,14 +10,6 @@
   />
 
   <agent
-    id="fogo_vela"
-    image="fogoo_photoroom.png"
-    width="150"
-    y="15"
-    x="900"
-  />
-
-  <agent
     id="slot_fogo"
     x="35"
     y="65"
@@ -27,7 +19,7 @@
     width="150"
     height="120"
     drop_accept="isqueirobom"
-    on_drop="set"
+    on_drop="set(fogo_aceso, true)"
   />
 
   <agent
@@ -38,6 +30,16 @@
     color="rosybrown"
     font-size="25"
   />
+
+  <fabe-if when="$fogo_aceso = true">
+    <agent
+      id="fogo_vela"
+      image="fogoo_photoroom.png"
+      width="150"
+      x="0"
+      y="15"
+    />
+  </fab-if>
 
   <fab-if when="$tem_isqueiro = true">
     <agent

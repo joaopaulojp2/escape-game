@@ -38,6 +38,7 @@
       color="rosybrown"
       font-size="25"
     />
+    set(lista_final, true)
   </fab-if>
 
   <fab-if when="$tem_isqueiro = true">

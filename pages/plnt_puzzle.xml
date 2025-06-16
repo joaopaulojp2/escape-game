@@ -9,6 +9,6 @@
     on_click="goToPage('middle')"
   />
   <fab-if when="$lista_final = true">
-    <agent id="cadeado" image="cadeadooo.png" />
+    <agent id="cadeado" image="cadeadooo.png" x="350" y="350" />
   </fab-if>
 </page>

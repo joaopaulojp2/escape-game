@@ -22,15 +22,6 @@
     on_drop="set(fogo_aceso, true)"
   />
 
-  <agent
-    id="senhazinha"
-    text="8451B5"
-    y="220"
-    x="30"
-    color="rosybrown"
-    font-size="25"
-  />
-
   <fab-if when="$fogo_aceso = true">
     <agent
       id="fogo_vela"
@@ -38,6 +29,14 @@
       width="150"
       x="0"
       y="15"
+    />
+    <agent
+      id="senhazinha"
+      text="8451B5"
+      y="220"
+      x="30"
+      color="rosybrown"
+      font-size="25"
     />
   </fab-if>
 

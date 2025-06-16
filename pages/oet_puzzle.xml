@@ -18,6 +18,19 @@
   />
 
   <agent
+    id="slot_fogo"
+    x="35"
+    y="65"
+    text=" "
+    color="black"
+    bg_color="rgba(231,76,60,0)"
+    width="150"
+    height="120"
+    drop_accept="isqueirobom"
+    on_drop="set"
+  />
+
+  <agent
     id="senhazinha"
     text="8451B5"
     y="220"
@@ -27,12 +40,13 @@
   />
 
   <fab-if when="$tem_isqueiro = true">
-    <agent 
-      id="isqueirobom" 
-      image="isqueiro.png" 
-      draggable="true" 
+    <agent
+      id="isqueirobom"
+      image="isqueiro.png"
+      draggable="true"
       width="250"
       x="500"
-      y="300"/>
+      y="300"
+    />
   </fab-if>
 </page>

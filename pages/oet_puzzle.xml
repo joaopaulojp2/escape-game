@@ -26,12 +26,12 @@
     id="senhazinha"
     text="8451B5"
     y="220"
-    x="900"
+    x="30"
     color="rosybrown"
     font-size="25"
   />
 
-  <fabe-if when="$fogo_aceso = true">
+  <fab-if when="$fogo_aceso = true">
     <agent
       id="fogo_vela"
       image="fogoo_photoroom.png"

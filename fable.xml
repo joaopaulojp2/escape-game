@@ -5,6 +5,7 @@
   <property name="corzinha" default="seagreen" />
   <property name="visible_iscas" default="false" />
   <property name="tem_isqueiro" default="false" />
+  <property name="fogo_aceso" default="false" />
   <start />
   <middle />
   <ntv_resolve />

@@ -8,7 +8,7 @@
     font-size="24"
     on_click="goToPage('middle')"
   />
-  <fab-if when="$lista_final = false">
+ <fab-if when="$lista_final = false">
     <agent id="cadeado" image="cadeadooo.png" x="100" y="140" width="200" />
     <agent
       id="opcao_uum"
@@ -51,6 +51,30 @@
       height="800"
       x="center"
       y="center"
-      />
+    />
+    <agent id="cartaozinho" image="passkey.png" width="430" x="center" y="0" />
+    <agent
+      id="mensagemzinha"
+      text="Parabéns! Você conseguiu o cartão de saída, fuja agora!!!"
+      bg_color="rgb(54,99,198,0.7"
+      x="center"
+      font-size="25"
+      width="600"
+      y="340"
+      radius="20"
+    />
+    <agent
+      id="cabou"
+      text="Fugir!"
+      x="center"
+      font-size="35"
+      width="140"
+      bg_color="rgb(4,90,128,0.6)"
+      radius="25"
+      y="430"
+      on_click="goToPage('ending')"
+    />
   </fab-if>
+</page>
+
 </page>

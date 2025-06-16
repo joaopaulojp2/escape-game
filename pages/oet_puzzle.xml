@@ -22,7 +22,7 @@
     on_drop="set(fogo_aceso, true)"
   />
 
-  <fab-if when="$fogo_aceso = true">
+  <fab-if when="$fogo_aceso = false">
     <agent
       id="fogo_vela"
       image="fogoo_photoroom.png"
@@ -32,9 +32,13 @@
     />
     <agent
       id="recado"
-      text="Clique na senha para coleta-la, mas não a esqueça..."
-      x="500"
-      y="500"
+      text="Clique na senha para coleta-la, mas não a esqueça... (clique na legenda para sair)"
+      x="center"
+      y="300"
+      font-size="25"
+      bg_color="rgb(0,0,0,0.8)"
+      radius="25"
+      on_click="set(fogo_aceso, false)"
     />
     <agent
       id="senhazinha"

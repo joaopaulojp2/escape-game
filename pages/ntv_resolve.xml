@@ -17,6 +17,17 @@
     x="285"
     y="135"
   />
+
+  <agent
+    id="slot_fogo"
+    x="500"
+    y="380"
+    text="slot"
+    color="black"
+    bg_color="rgba(231,76,60,0.5)"
+    width="120"
+    height="80"
+  />
   <agent
     id="codigo"
     text="estudante = João  /  print(?)"

@@ -18,7 +18,6 @@
       x="400"
       y="400"
       radius="20"
-      on_click="reset()"
     />
     <agent
       id="opcao_doois"
@@ -28,6 +27,7 @@
       x="400"
       y="345"
       radius="20"
+      on_click="reset()"
     />
     <agent
       id="opcao_trees"
@@ -37,6 +37,7 @@
       x="400"
       y="290"
       radius="20"
+      on_click="reset()"
     />
   </fab-if>
 </page>

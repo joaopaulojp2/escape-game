@@ -11,7 +11,32 @@
   <fab-if when="$lista_final = false">
     <agent id="cadeado" image="cadeadooo.png" x="100" y="140" width="200" />
     <agent
-      id="opcao_um"
-      text=""
+      id="opcao_uum"
+      text="8451B5"
+      bg_color="rgb(86,65,29,0.9)"
+      font-size="20"
+      x="400"
+      y="400"
+      radius="20"
+      on_click="reset()"
+    />
+    <agent
+      id="opcao_doois"
+      text="8751B2"
+      bg_color="rgb(86,65,29,0.9)"
+      font-size="20"
+      x="400"
+      y="345"
+      radius="20"
+    />
+    <agent
+      id="opcao_trees"
+      text="8551B8"
+      bg_color="rgb(86,65,29,0.9)"
+      font-size="20"
+      x="400"
+      y="290"
+      radius="20"
+    />
   </fab-if>
 </page>

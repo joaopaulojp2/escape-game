@@ -42,7 +42,7 @@
     />
   </fab-if>
 
-  <fab-if when="$cartao_acesso = false">
+  <fab-if when="$cartao_acesso = true">
     <agent
       id="fundao"
       text=" "

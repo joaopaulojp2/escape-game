@@ -30,5 +30,6 @@
     width="240"
     radius="20"
     on_click="reset()"
+    animation="hover-bg-color-[#0f8f18] hover-color-[white]"
   />
 </page>

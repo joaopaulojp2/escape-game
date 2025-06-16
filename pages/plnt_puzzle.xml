@@ -45,8 +45,12 @@
   <fab-if when="$cartao_acesso = false">
     <agent
       id="fundao"
-      text="ee "
-      bg_color="rgb(0,0,0,0.5)"
-      
+      text=" "
+      bg_color="rgb(0,0,0,0.9)"
+      width="800"
+      height="800"
+      x="center"
+      y="center"
       />
+  </fab-if>
 </page>

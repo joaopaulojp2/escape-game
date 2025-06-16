@@ -38,14 +38,14 @@
     on_click="set(visible_iscas, true)"
   />
 
-  <fab-if when="$visible_iscas = true">
+  <fab-if when="$visible_iscas = false">
     <agent
       id="mensagem"
       text="Você ganhou um isqueiro! Clique-o para coletálo, e na legenda para sair...."
       x="center"
       y="410"
-      bg_color="black"
-      radius="7"
+      bg_color="rgb(0,0,0,0.9)"
+      radius="20"
       font-size="30"
       on_click="set(visible_iscas, false)"
     />

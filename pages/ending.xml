@@ -3,6 +3,7 @@
   bg_image="_pngtree_city_park_landscape_1169802.png"
   bg_music="8bit_bossa.mp3"
 >
+  <agent id="fundos" />
   <agent
     id="teste"
     text="Parabéns! Conseguir Fugir é uma grande conquista!"
@@ -14,7 +15,7 @@
 
   <agent
     id="next_page_text"
-    text="Iniciar Jogo"
+    text="Voltar ao inicio..."
     y="360"
     color="white"
     x="340"

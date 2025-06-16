@@ -1,11 +1,11 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Escape Game"
+    text="Parabéns! Conseguir Fugir é uma grande conquista!"
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="30"
   />
 
   <agent

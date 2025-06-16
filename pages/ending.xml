@@ -20,5 +20,15 @@
     width="600"
     y="200"
   />
-  <agent id="menus" text="Voltar ao menu" font-size="29" x="center" y="250" />
+  <agent
+    id="menus"
+    text="Voltar ao menu"
+    font-size="29"
+    x="center"
+    y="350"
+    bg_color="rgb(0,0,0,0.5)"
+    width="240"
+    radius="20"
+    on_click="reset()"
+  />
 </page>

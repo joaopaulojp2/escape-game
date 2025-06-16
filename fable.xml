@@ -7,6 +7,7 @@
   <property name="tem_isqueiro" default="false" />
   <property name="fogo_aceso" default="false" />
   <property name="lista_final" default="false" />
+  <property name="cartao_acesso" default="false" />
   <start />
   <middle />
   <ntv_resolve />
